@@ -1,0 +1,13 @@
+Flask
+pymongo
+openpyxl
+nltk
+rake_nltk
+pandas
+numpy
+selenium
+config
+aiohttp
+asyncio
+pickle
+configparser

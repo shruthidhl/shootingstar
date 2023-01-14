@@ -1,0 +1,226 @@
+,profile_id,description,ends_at,starts_at,title,url
+0,0,"•Security as Service based Virtual Machine for Web Application-Security and Profiling onCloud.•On demand plug and play security services to handle top OWASP Cyber Threats on CloudTech Stack: AWS Cloud Services, Mod-security WAF, Java",2018-05-31,2017-06-01,Cloud Based Web Application:Profiling and Security,
+1,1,,,,,
+2,2,,,,,
+3,3,"• Primary ownership of Member and Membership Domain driven microservices for a Membership-Benefits product platform• RESTful API development with a performance to handle 1000 requests/sec• Publishing Events on Kafka for complex operations pertaining to 15+ clients• Full-text and Wild-card Search feature for 25 million+ member data using AWS Elasticsearch• Design Patterns to support Multi-tenancy across the microservice supporting 10+ tenantsTech - Java, Spring Boot, Kafka, JPA, Postgres, Hibernate, AWS Elasticsearch",2021-06-30,2020-03-01,Member Onboarding,
+4,3,"• Developed a messaging system using Kafka for Asynchronous communication between microservices• Message flow decided at runtime using routing slip approach with Choreography pattern• Performance to support daily ingestion of 25 million+ memberdata in the system within 3 hoursTech : Kafka, Spring Boot",2020-12-31,2020-09-01,Membership Messaging System,
+5,3,"Common Library with basic utilities integrated with 150+ APIs across 25+ microservices in the platform supporting 15+ clients• Centralized Error handling for APIs• Centralized Log management• Centralized Authorization for APIs• Audit tracking for database operations from each microserviceTech: AWS Elasticsearch, AWS Logstash, AWS Kibana, Spring Boot",2020-08-31,2019-03-01,Common Platform Library,
+6,3,"Second Prize for building a Student Attendance Management(SAM) during Unscript-2k18 Hackathon within 24 hoursMain features :• Fingerprint attendance Scanning using Fingerprint Scanner and Arduino• Attendance API integration with Arduino to mark attendance on fingerprint scanning• Wifi Setup to call API hosted over Amazon EC2• Manual Attendance support as a fallback mechanism• Attendance & Result dashboard creationTech : Fingerprint Scanner, Arduino, Bootstrap, ESP8266 WiFi, PHP, Mysql, Amazon EC2",2018-03-31,2018-03-01,HelloSAM,http://github.com/saqlainkadiri/HelloSAM
+7,3,Pizza Ordering Web app using Java Spring MVC,2018-01-31,2017-11-01,PizzaWagon,http://github.com/saqlainkadiri/PizzaWagon
+8,4,,,,,
+9,5,,,,,
+10,6,,,,,
+11,7,,,,,
+12,8,,2015-08-31,2015-05-01,online shopping on php,
+13,9,,,,,
+14,10,,,,,
+15,11,,,,,
+16,12,,2019-05-31,2019-01-01,Smart Hybrid Grid with Anti-Theft Alert and Fault Detection,
+17,12,,2016-12-31,2016-12-01,Mini Voyager,
+18,12,,,,PID and FOPID Control of DC Motor,
+19,12,,,,Power Factor Correction using APFC Panel (IEEE-ICPEICES 2018),
+20,12,,,,Speed Control and feedback of BLDC motor,
+21,13,,,,,
+22,14,Undergraduate research thesis in Applied Mathematics:• Comparison of denoising methods for simulated data - Numerical methods and ANNs• Learning PDE from data using PDE-FIND and Pruning,2020-05-31,2019-08-01,Learning PDEs from data using Neural Networks,
+23,14,"Research project in Applied Mathematics under the guidance of Professor Warren Hare titled Blackbox Optimization. Use and comparison of complex-step derivative approximations in model-based derivate free and blackbox optimizations. The research field has applications in Machine Learning, Operations Research and Road Optimization.",2019-08-31,2019-06-01,Blackbox Optimization,
+24,14,GUI application on Fire Station database management in python usingPyQt for the front-end and MySql for the back-end with interfacefor both administrator and user,2019-04-30,2019-01-01,Fire Station Management - Database Project,http://github.com/Kashvi-Srivastava/FireStation-Database_Management_System_Project
+25,14,"The report contains the basic terminologies and concepts related to Generalized Inverses which further comprise of vital findings and properties concerned to the topics involved. Proven and unproven results from several pioneer works in the field have been restated and verified in my own symbolization and language. The report also aims at giving an insight into the computational aspects and theorems regarding various types of generalized inverses. Conclusive proofs have been provided to some problems stated in the texts, ‘Linear Algebra and Linear Models by Ravindra B. Bapat’, ‘Linear Algebra by A.Ramachandara Rao and P. Bhimasankaran’ and ‘Generalized Inverses by Adi Ben-Israel and Thomas N.E. Greville’. Also, find some descriptive MATLAB scripts solving the popular algorithms in the world of Linear Algebra.",2018-07-31,2018-05-01,"Generalized Inverses - Concepts, Terminology and Algorithms",https://drive.google.com/file/d/1D6Mm_HmbmBjll1ViWGQFioctTbQx3PRm/view?usp=sharing
+26,15,,,,,
+27,16,ATM-Automatic Teller Medicine Machine in association with NHRM for Central Government of India.,,,ATM-Automatic Teller Medicine Machine,
+28,16,,,,Automatic Hand Sanitising Machine for Covid-19,
+29,16,,,,"Automatic Missile Launcher Simulator - ""Indian Defence""",
+30,16,,,,BioMedical Device for Body Electrodes Data Scanning,
+31,16,,,,"CO (Carbon Mono Oxide) level detection alarm generation system – “ITC, Kolkata”",
+32,16,,,,Custom IoT Solutions for Various Industries,
+33,16,,,,Data Logger App for Various Automobile Sensors,
+34,16,,,,Development of 3D Printer 22x22x20Cm,
+35,16,,,,Fuel Level Sensing IoT Device for Industrial Machines,
+36,16,,,,Hand Characters Recognition in Machine Learning,
+37,16,,,,Health Monitoring System – “Fortis Hospital Noida”,
+38,16,,,,High Frequency Sensory Data Controller,
+39,16,,,,Home Automation Retro Switches,
+40,16,,,,"IOT Sensor UNIT Research & Development for Automobile Sector - ""NBC""",
+41,16,,,,Intelligent Stick using AI,
+42,16,,,,"Internet data accessing management system – “Microsoft Hyderabad, India”",
+43,16,IoT Based LED TV monitoring & Control System for Sony Televisions India,,,IoT Based LED TV monitoring & Control System,
+44,16,,,,IoT Water Metering Solution - Iratrack,
+45,16,,,,LnBCore - EdTech Online Technologies EcoSystem,
+46,16,,,,MOLI - Mobile Link Device for Cooler Industry,
+47,16,,,,Machine Learning Program for Recognising Traffic Signs in Germany,
+48,16,,,,MetroTrain Prototype using PLC & SCADA,
+49,16,,,,Motion IoT Devices,
+50,16,,,,Multi-Protocol Gateway for IoT,
+51,16,,,,Parking IoT Sensors,
+52,16,,,,SMART Garbage Bins,
+53,16,,,,UV Scanner Device for Covid-19,
+54,16,,,,Ultrasonic Vibrator for Diamond Cutting Machines,
+55,16,,,,Weighing Machine Model,
+56,17,,,,,
+57,18,This was a project in which I had performer Exploratory Data Analysis on given Dataset and concluded  'what to do? for increasing sales. I also found out in which area or sectors the values are touching ground and had plotted graphical visualization of all these things.,2021-06-30,2021-06-01,Exploratory Data Analysis - Retails,https://github.com/gauravtopre9/The-Spark-Foundation-Internship-Tasks-Data-Analysis-/blob/main/Task_3_TSF_GRIP.ipynb
+58,18,"Data set regarding terror activities performed by different terrorist organization in different countries was given I had performed Exploratory Data Analysis to find out the dominance of different terrorist organization in different countries. Also, the casualties and all such things were visualised using graphs and world Map.",2021-06-30,2021-06-01,Exploratory Data Analysis - Terrorism,https://github.com/gauravtopre9/The-Spark-Foundation-Internship-Tasks-Data-Analysis-/blob/main/Task_4_TSF_GRIP.ipynb
+59,18,We are designing communication and monitoring system which works for establishing communication between crew and racer during endurance race over range of 2 miles.,2021-05-31,2020-12-01,Racing car remote Monitoring system,
+60,18,Need of time....Remainder system for face 😷masks.,2020-11-30,2020-10-01,Covid-19 Face-Mask Reminder system Using Arduino.,https://github.com/gauravtopre9/Face_Mask_Remainder_System
+61,18,"We made a display board for displaying the number of students that are present in classroom using attendance marking with the help of classroom CCTV camera.We used knowledge of Computer vision , python, Keras as well as of mySQL",2020-03-31,2020-01-01,Face Detection Attendance System,
+62,18,,2019-12-31,2019-11-01,Binnary Calculator,
+63,19,,,,,
+64,20,B.tech Final Year ProjectUsing a fuzzy logic controller to design a boost pfc circuit to convert 230V AC to 600V DC with minimal current harmonic distortion,,2020-09-01,[Simulation] Boost PFC with Fuzzy Logic Controller and comparison to traditional PI Controller,
+65,20,MATLAB simulation of a backward Facing Model of an Electric Vehicle in association with Electric Vehicle and Systems Engineering course by RBEI,2020-06-30,2020-06-01,[Simulation] Backward Facing Model of Electric Vehicle,
+66,20,"A bluetooth enabled, line following dustbin using Arduino and HC05 mdule",2018-10-31,2018-10-01,Smart Dustbin,
+67,20,A 3D 4x4x4 LED cube controlled using Arduino,2018-06-30,2018-05-01,LED Cube,
+68,20,"Hobby Project, 4 legged walking spider robot using arduino and servo motors",2018-02-28,2018-02-01,Quadruped Robot,
+69,21,"The objective of this project was to create an intelligent system which determined the collective opinion of people towards the Statue of Unity(#StatueofUnity) using twitter dataset. The result of the project was the overall impression of people if it was positive, negative or neutral.Platform: Integrated HTML5 and CSS3 for front-end and Python language on Spyder platform as a back-end tool.Technology: Machine LearningModels: KNN, KMeans, Naive Bayes algorithmsLibraries: Scikit Learn, PocketSphinx, PyAudio, Pickle",2019-06-30,2019-01-01,Sentimental Analysis of twitter data using Machine Learning Algorithms.,
+70,21,Created a website for users to rent a car.Technology Used: HTML and PHP,2018-12-31,2018-11-01,Online Car Rental Showroom - Go Car Rentals,
+71,21,The development of this project was to improve my knowledge aboutcomputer graphics and OpenGL.The objective was to design a moving and a sinking ship using OpenGL concepts.Operating System used were:LINUX MINT 18.3OpenGL2.0Graphics library: GL/glut.hC Language using OpenGL,2018-05-31,2018-04-01,Moving Ship,
+72,21,"The objective of the project is tocomputerize the details of the Student. “Student Management System” is theproject that not only keeps the record of various students, courses, personal information, but also reduces theextensive paperwork and makes it more user friendly.User InterfaceFront-end software: SwingsBack-end software: Oracle 11g DatabaseSoftware:​ ​NetBeans​ ​IDE​ ​8.2​​ ​to​ ​develop​ ​Java​ ​applications​ ​and​ ​Swings.",2017-12-31,2017-11-01,Student Management Database System,
+73,22,,,,,
+74,23,This is a web-scraping program using BeautifulSoup (as it is only for scraping)Reads out the news and provides link for the same without even opening NDTV.com,,,Real Time NDTV News Reader,https://github.com/BRIAN-THOMAS-2202/NDTV-Real-Time-News-Reader
+75,23,Sets a reminder at the desired time and with the desired reason to be remindedIt will remind you at the desired time and with the desired description/reason in the form of voice and will also trigger a windows system notification with the reason to be reminded,,,Reminder - System,https://github.com/BRIAN-THOMAS-2202/Reminder-System
+76,23,🔶 One of my best completely self-built from scratch projects 🔶This Project is the Virtual Assistant that's been created by using Libraries and end-to-end CustomizationPlease do check out this project and do read the README.md file to understand the project properly.,,,Virtual - Assistant,https://github.com/BRIAN-THOMAS-2202/VIRTUAL-ASSISTANT
+77,23,"Control your word document with just your voiceFunctions like Left Align, Right Align, Centre Align, Bold, Italics, Underline and Next Line have also been included.Whatever you say will be typed but not the function names like (""Left Align, Right Align, Centre Align, Bold, Italics, Underline and Next Line"")To activate the following functions just say the exact following function names and without being typed in the word document they will be executed",,,Voice-Controlled-Word,https://github.com/BRIAN-THOMAS-2202/Voice-Controlled-Word
+78,24,"- Led the successful cloud application modernization initiatives for 4 mission-critical applications- Independently brought innovative cloud solutions forward, ensuring the team/client was always aware of new opportunities in this spaceTechnologies: Angular, Node.js, Typescript, AWS, CI/CD",,2018-10-01,Cloud App Modernization for a Global Auto Manufacturer,
+79,24,"- Facilitated several user-centered design with several Director-level and C-suite executives.- Created the comprehensive cloud architecture to support the executive direction- Managed the planning, development, and delivery of a new cross-platform mobile application built to further engage and educated visitorsTechnologies: Xamarin, C#, iOS, Android, .NET, Node.js, Google Cloud Platform, Firebase, CI/CD",2018-09-01,2018-03-01,New Mobile App and Cloud Migration for Texas' Largest Zoo,
+80,24,"Architected and developed the cloud back-end for a new consumer-facing Virtual Reality experienceTechnologies: AWS, Node.js, REST, C#, WCF, Unity, Windows Services, VR",2018-01-01,2017-08-01,VR Cloud Architect for a Global Entertainment Company,
+81,24,"LeaD Mobile Software Engineer developing a nurse-facing native iOS app to improve tracking of patient progress on import dialysis milestones.Technologies: Swift,iOS, Groovy, Java, REST, DevOps, MDM",2017-08-01,2016-09-01,Senior Mobile Software Engineer for a Fortune 500 Healthcare Company,
+82,24,"- Cloud and mobile architect for a new consumer-facing native iOS app to designed to help patrons plan their trip to the museum- Trained a team of 5 software engineers on mobile and cloud best-practicesTechnologies: Swift, Node.js, CI/CD, AWS, REST",2016-08-01,2016-04-01,Mobile & Cloud Architect  for Dallas' Largest Museum,
+83,24,"Senior Mobile Software Engineer developing an internal cross-platform app for nurses to track patient  prescription subscriptions.Technologies: Xamarin, iOS, C#, .NET, Java, SQL, DevOps, MDM",2016-04-01,2016-01-01,Senior Mobile Software Engineer for a National Pharmaceutical Company,
+84,24,"Full-stack Software Engineer developing a customer-facing cross-platform mobile app that provides healthcare price transparency by enabling users to search for doctors, see their reviews, and compare procedure costsTechnologies: Xamarin, C#, iOS,  Android, AWS, .NET, Node.js, CI/CD, REST, DevOps, MDM",2015-12-01,2014-08-01,Mobile Software Engineer for a National Health Services Provider,https://apps.apple.com/us/app/compass-health-pro-cloud/id977793397
+85,25,,,,,
+86,26,"We created web app, which creates a route for runners and people who like to ride a bike. The main idea of the app is that you don't have to think about where to run this time. You have to simply type how long your route will be and the app will generate one just for you!We used Django for backend, TomTom API, some route optimization algorithmes and Vue JS for frontend.",2019-06-30,2019-06-01,TomTom Hackathon,https://github.com/jakobowsky/RunTomRun
+87,26,"We created web service which checks if your current job is at risk of #automation for next 20 years.If the answer is yes then user goes through personality analysis based on text stream #big5 . Then our service propose you future and safe job. Also our app provides you with study path in order to get this job (courses, articles, videos) 🔥🔥___Technology which we use:- #machinelearning analysis of big-5 personality testes trained on myPersonality/Cambridge Analitica datasets , we created our own model for that. 🔥- Simulating automation of jobs for next 20 years with salaries 🚀- #Django framework for #Backend and #Frontend 👨‍💻- #postgresql database- youtube api 🚁- #webscraping on Quora 🕷🕸- #googleappengine for deployment our app",2019-04-30,2019-04-01,Facebook hackathon project - Jobber,https://github.com/wkulikowski/facebook-hack-2019
+88,27,,,,,
+89,28,Marketing and Business development,2014-10-31,2014-10-01,JHS Marketing Campaign,
+90,28,Developed Using ASP.net and MSSQL,2014-03-31,2014-03-01,Zara Capex System,
+91,28,Developed using ASP.net and MSSQL,2014-03-31,2014-03-01,Zara Engineering System,
+92,28,Appian application for university services,2013-05-31,2013-05-01,Taif University,
+93,28,Appian application for university services,2013-05-31,2013-05-01,Taif University,
+94,28,Developed using Appian BPM tools and JAVA,2013-04-30,2013-04-01,Taef University Academic website,
+95,28,Medical System UI used to control the parts of the medical system and display the results to the user with current states and the ruining functionalitiesDeveloped base on Java SE and Embedded Derby Database,2012-02-29,2012-02-01,SCA Medical System Control,
+96,28,"Home control system used to control every part in the home through mobile App /website using MQTT protocols to control every sensor in the home , i had used the following sensors gas Sensor,Temperature Sensor and Motion Sensors.",2011-10-31,2011-10-01,Home Control System,
+97,28,"Developed Using JAVA and Linux OS , The application used to control warehouse assets , Inventorying , Data reporting and controlling multiple RFID devises",2011-03-31,2011-03-01,RFID Middleware,
+98,28,"GPS sensor , Pic Microcontroller , GIS , GSM/GPRS",2010-08-31,2010-08-01,GPS Fleet Traking System,
+99,29,its an potfilio website made by me on react.js,2021-08-31,2021-07-01,potfolio,https://potfolio-sudeep.herokuapp.com/
+100,29,. Its an Netflix clone website made with react.js and back end with node.js and Firebase.,2021-06-30,2021-06-01,Netflix-clone react.js,https://netflix-clone-2ac3a.web.app/
+101,29,video chqting website made by node js and api.,2021-06-30,2021-05-01,video chating  website,https://github.com/sudeep162002/Zoom-clone
+102,29,This is a web application which shows covid cases on world map.,2021-05-31,2021-05-01,Covid cases on map.,https://github.com/sudeep162002/Covid-tracking-app
+103,29,An application which deals with daily life problems of scheduling our time table. its a to do list app which is responsive and made using java scripts logic html and css.,2021-05-31,2021-05-01,To DO List web application,https://github.com/sudeep162002/TO-DO-LIST
+104,30,,,,,
+105,31,,,,,
+106,32,,,,,
+107,33,,,,,
+108,34,,,,,
+109,35,,,,,
+110,36,,,,,
+111,37,,,,,
+112,38,Developers web is a social media site for the developer community around theworld.• Researched and found multiple third-party APIs to accomplish our objectivesand integrated it into our application.• Implemented redux architecture for global state management.• The whole end-to-end solution is deployed on Heroku.,2021-04-30,2021-04-01,Developers Web,https://shielded-island-66718.herokuapp.com/
+113,38,Food Bonanza is a restaurant web app with a responsive front-end.• React forms are used for form validation and redux is implemented formaintaining states in a better way.• Ready to integrate with the back-end.,2021-02-28,2021-02-01,Food Bonanza,https://food-bonanza.netlify.app
+114,38,"Corona Tracker is a real-time info provider about the statistics both in the text as well as graphical format. Axios is used to get the data from different rest APIS and some 3rd party packages are also been used to provide better UI, Redux is implemented for state management.",2020-07-31,2020-06-01,Corona Tracker,https://coronatrackerrr.netlify.app/
+115,39,"Site Web des Toises - Centre de psychiatrie et psychothérapie (Lausanne, Suisse).Analyse des besoins, rédaction des contenus, coordination séances photo, concept fonctionnel, coordination des traductions, campagne de lancement, direction de projets.",2015-09-30,2015-09-01,LESTOISES.CH,http://www.lestoises.ch/
+116,39,"Site Web du Mouvement pour mettre fin à l'itinérance: Analyse, concept fonctionnel, stratégie éditoriale, direction de projet",2015-05-31,2015-05-01,MMFIM.CA,http://www.mmfim.ca/
+117,40,,,,,
+118,41,,,,,
+119,42,Made an applet using Core Java and concepts of OOPS to show the intensity and type of earthquake around the world. Learned the implementation of the concept in solving real world problems. Used Eclipse as the IDE.,,2020-01-01,Unfolding Map,
+120,42,Made a data base management system using  C++.,2019-05-31,2019-02-01,Medical store management system,
+121,43,,,,,
+122,44,,,,,
+123,45,,,,,
+124,46,"DevConn is social network for developers where they connect with another developers across the globe and also they can post and other developers can like, dislike and comments on that post with modification and deletion for authorized users.",2020-01-31,2019-12-01,DevConn,http://conndev.herokuapp.com/
+125,46,"Facemash let the users to predict their age, gender, makeup, expression and illumination from faces and users can also play audio/video using Raspberry Pi on the basis of age, gender and expression.",2018-12-31,2018-04-01,Facemash,
+126,46,The goal of this project was to learn about how to use Google Dialogflow and firebase and automated college timetable through this project.,2018-04-30,2018-04-01,ChatBot,
+127,46,"Through BudgetController app, We can manage budget using our income and expenses.",2018-02-28,2018-02-01,BudgetController,https://github.com/kundan20/BudgetController
+128,46,"- The game has 2 players, playing in rounds- In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score- BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn- The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn- The first player to reach 100 points  or also user can input the winning score on GLOBAL score wins the game",2018-02-28,2018-02-01,Dice Game,https://github.com/kundan20/dice-game
+129,46,"Through Economica, we can calculate GST,  income tax and also get to know about all the government schemes.",2017-12-31,2017-11-01,Economica,
+130,46,"Knockcamp is all about connecting colleges across country and students can get everything whatever their needs like tutorials,their solution, notes, books, society, upcoming events and many more but currently it is only implemented for Thapar University and we're  also focusing on other colleges .",2017-08-31,2017-06-01,Knockcamp,http://www.knockcamp.in
+131,46,"Line follower robot using Arduino and In this project, It complete 3 rounds of specified path and stop at the obstacles for a second.",2017-05-31,2017-04-01,Buggy Project,
+132,47,,,,,
+133,48,,,,,
+134,49,,,,,
+135,50,,,,,
+136,51,,,,,
+137,52,,,2020-09-01,On-Device Scene Text Recognition,
+138,52,,2020-08-31,2020-06-01,On-Device Language Identification,
+139,52,,2020-05-31,2020-02-01,On-Device Text Similarity,
+140,52,On-Device Entity Extraction module in Samsung Galaxy A series devices,2020-01-31,2019-10-01,On-Device Entity Extraction,
+141,52,Auto Hotspot Project for Smart Remote Hotspot Connection in case of Samsung mobile devices,2018-07-31,2018-06-01,Auto Hotspot,
+142,52,The official Engifest'18 Website,2017-12-31,2017-12-01,Engifest 2018 Website,http://www.engifest.dtu.ac.in
+143,53,,,,,
+144,54,"Designed a system generating recommendations for a user by finding out similarity in buying pattern with other users. Used Pearson correlation, Euclidean distance and cosine similarity for generating similarity metrics and later used Genetic Algorithm (GA) to obtain an optimized combination of all techniques.• Python : Scipy, Data Science, Machine Learning",,,E-commerce Recommender System,
+145,54,"Implemented a system to classify sentences as positive/negative/neutral in amazon product review data set, extracting sentiment words and negation phrases using various NLP techniques, and passing them to classification models: Naïve Bayesian and Random Forest Classifier• Python : Numpy, Scipy, NLP, Data Mining",,,Sentiment Analysis,
+146,55,,,,,
+147,56,,,,,
+148,57,Developing various python based scripts to make day to day tasks easier :1. Basic project management tool like Yeoman2. CLI based google searching3. Automation scripts for job posting data scrapingand few more.,,2016-01-01,P.U.P ( Python Utility Pack ),
+149,57,"Developed an automation solution for a US based stealth startup involving scraping down of data from data source & processing it for use. Technology stack involved use of AngularJS, Python & PHP.",2017-09-30,2017-08-01,Confidential Project,
+150,57,"A simple chat system with features such as file sharing, personal messaging, broadcasting messages, real time notifications. The solution was developed using JS, Ajax & PHP with SQL database.",2017-08-31,2017-07-01,Chat System,
+151,57,Developed client based business web platform for promoting its business across India.,2017-08-31,2017-05-01,India Pest Controls,http://www.indiapestcontrols.com
+152,57,Developed an application for handling operations and management of an insurance firm.The software involved QT developed interfaces with SQL  database managed online using PHP.The software was an end to end solution with operational requirements as focus.,2017-04-30,2016-12-01,InsureXpress,
+153,57,A simple client based web application for teaching driving rules to beginners.,2017-03-31,2017-02-01,Indian Driving Test,http://www.indiandrivingtest.com
+154,57,Implemented an automated watering solution with software application built on QT & arduino as hardware. The solution provided an interface to water plants from anywhere via web.,2016-11-30,2016-08-01,WAMBIOT ( Watering Management Based on IOT ),
+155,57,Helped develop a wordpress based website for personal portfolio of Rashmeet Kaur.,2016-10-31,2016-10-01,RashmeetKaur.com,http://www.rashmeetkaur.com
+156,57,"Developed an platform to organize team members as well as their tasks & attendance.Frontend - HTML, W3CSS, JSBackend - PHP",2016-07-31,2016-06-01,Team Management Portal,
+157,57,"Developed an user management portal with functionality such as export user data in excel or pdf.Frontend - HTML, CSS, JSFramework - BootstrapBackend - PHP",2016-06-30,2016-05-01,Software Testing Made Easy,http://softwaretestingmadeeasy.com
+158,57,Developed a client business website for promoting business online.,2016-02-29,2016-01-01,DelhiLic.com,http://www.delhilic.com
+159,57,Maintained official website of a social organization named Womenite,2015-12-31,2015-08-01,Womenite.com,http://www.womenite.com
+160,57,Developed an application & robot to follow voice commands using C# & Arduino.,2015-07-31,2015-06-01,S.C.R.A.P- Speech Controlled Robot Application,
+161,57,"Developed a native hybrid application to list information about musical instruments using HTML, CSS, JS & JQuery in IBM Worklight.",2014-07-31,2014-06-01,M.A.D - Music Application Development,
+162,58,In This Project A New Approach For Load Balancing In Cloud Computing Is Proposed. This Algorithm Aims At Distributing The Equal Load On Each Server In The Cloud Network. This Also Improves The Resource Utilization. With The Proposed Approach A Situation In Which Only Few Resources Are  Loaded Heavily While Others Are  Just Sitting  Idle Will Never Arise.,2016-05-31,2015-08-01,Load Balancing In Cloud Computing Using Cloudsim,
+163,58,This Project Works On To Maintain Security Of Data When It Is Kept At Server Side.IP Address And Shuffling Is Used To Provide The Encryption Of The Image Data.,2015-05-31,2014-09-01,Data Security In Cloud Computing’,
+164,58,Honeypot system was implemented to identify and  prevent hacker/attacker to get the valuable data from the system and deceive them to wrong system.Only the authorized person can access the data.,2014-05-31,2013-09-01,Honeypots Implemented Using Chat Server,
+165,58,"This Project Is Working On How The Cpu Will Behave In Case Of Implementation Of The Different Algorithms Of Scheduling Processes, Using C And Data Structures.",2013-04-30,2012-08-01,Cpu Scheduling,
+166,59,Worked as User Experience Designer for Android/iOS wearable project.- Designed interfaces and interactions- Designed mobile app for integration- Human-centered design approach,2019-10-31,2019-02-01,Android/iOS Watch Banking,
+167,59,Scrum product owner for internal employee engagement application at HSBC.- Mentored graduates on development team- Defined user stories and acceptance criteria- Followed agile methodology,2019-10-31,2019-03-01,"Employee engagement application, HSBC",
+168,59,Designed a garbage management system for smart cities.- Designed mobile app for garbage segregation and management,2018-04-30,2017-12-01,Smart Garbage Management System,
+169,59,Designed a book recommendation system using cuckoo search machine learning algorithm.,2017-05-31,2016-08-01,Book Recommendation System,
+170,60,,,,,
+171,61,ASORDS (Automatic Self Ordering Detector Panel) System which can identify the relationship between and Seller and Buyer. Collect the all information related to all merchant at same platform (relational db) Extract real time placed order and try to map with merchant id on the basis of hard link and in match cases pushed theorder into a panel which is reviewed by “Merchant Fraud Detection Team”(OPS) This project currently is on development phase. (Building more checks to identify relationship between Seller and Buyer),2019-03-31,2019-01-01,ASORDS,
+172,61,"ARDS (Automatic Reselling Detector System) Risk Identifying System behind Paytm Marketplace, which is working on live orders and push suspicious orders to OPS. System is based on 6 major Blocks (Feeder API, Panel for Operation Team to review orders, L2 Cron, L3 Cron, BackfillScript, and Extractor which pushes data to system). While placing order, if order detail correlated to suspicious pattern, risk engine will directly mark it as suspicious (Whichhelp us in real time detection (less than 1 min push for review). Continues data extraction, Clustering, tracking of velocity limits of each cluster, Bad cluster cancellation and then applypunishment features to cluster (eg: account muting as per business decision). Small Database and Highly indexed database for fast clustering is the key behind ARDS 2.0.",2018-12-31,2018-08-01,ARDS,
+173,61,"Sales force Sales Force object (Account, Contact, Order, Listing, Product) load using Informatica workflow which is run by UNIX script Worked on end to end flow from Data analysis to load into work table, type 1 delta load to staging area, SFDCload, sync up the SFDC data to relational database to track delta load Order load is a Real time job. Jobs are scheduled by Control-M Scheduler, to run shell script which trigger workflow. Use Parameterized workflows, mappings.",2018-05-31,2017-12-01,Salesforce Ticket Creator,
+174,61,"Project descriptionProject Description : Sales Order project covers all the information on Sale of centurylink projects. It has its own data marts which holds all the sales information. CenturyLink wanted to use Salseforce for the Sales team (Sale representative or call center team) to store Customer information like Customer details (Billing or Service addresses), Product details, order details, Contacts etc.We as ETL team have responsibility to load the SalseForce with all those data from different source system.Responsibilities:•	Working as Software Developer for the project.•	Interacting with client and end users on gathering requirements.•	Extensive experience in gathering and documenting business requirements and functional requirements.•	Conducting source data analysis, implementation, data extraction, transformation and loading (ETL).•	Creating User stories based on the task prioritization and allocation based on customers need in each sprint.•	Identifying any bottle necks, dependencies for the planned tasks.•	Develop and implement client needs assessment to define and manage specified expectations resulting in quality project delivery.•	Design END to END data flow.•	Creating Informatica workflows, Unix shell Scripts (with restart ability, logs, archiving and generate email and SMS alerts functionaities) Oracle PL/SQL procedures.•	Created Near Real Time (take 120-200 second to pick a order )data flow from source to Salseforce (for Customer Order sync).•	Solving Complex problems (Sync Process, Bad file reload, Near real time load )come during this Project.•	Conducting all the code reviews.•	Participate in Release planning and implementation.",2018-02-28,2017-07-01,CR6141 Salesforce Project,
+175,61,Controls different appliances of room using GSM module and MICRO-CONTROLLER,2015-03-31,2015-03-01,HOME AUTOMATION & SECURITY SYSTEM,
+176,61,CONTROLLING LGHT IN A ROOMwithout cameras using PIR sensorsmap a room  in different areas using PIR sensors,2014-11-30,2014-11-01,PIR SENSORS,
+177,61,,2014-01-31,2013-12-01,Arduino based Hexapod Robot,
+178,62,,,2021-05-01,Alexa - Personal Voice Assistant,https://github.com/sky-dtu/AlexaPersonalVoiceAssistant
+179,62,,2021-06-30,2021-06-01,eShop - Ecommerce Django Web Application,https://github.com/sky-dtu/Django_eShop
+180,62,,2020-11-30,2020-09-01,MPPT of PV Cells by P&O Algorithm (Simulation using MATLAB SIMULINK),
+181,62,,2017-12-31,2017-11-01,Car Resale Complete Cycle (using C++),
+182,63,Implemented Naive Bayes Classifier (without NLTK libraries) to classify hotel reviews as deceptive/truthful and positive/negative. Applied Laplace Smoothing and text lemmatization to improve the accuracy of the model.,2019-09-30,2019-09-01,Naive Bayes Classifier for Sentiment Analysis using Laplace Smoothing,
+183,63,"Helped develop website for Tremors, the technical fest at Indira Gandhi Delhi Technical University for Women.",,,Tremors 14.0 website,
+184,64,,,,,
+185,65,,,,,
+186,66,,,,,
+187,67,,,,,
+188,68,,,,,
+189,69,,,,,
+190,70,,,,,
+191,71,,,,,
+192,72,,,,,
+193,73,,,,,
+194,74,,,,,
+195,75,,,,,
+196,76,Blast utils for node js written in typescript for  better scalability. Download and use using NPM tool.,2017-11-30,2017-11-01,Blastutils,https://www.npmjs.com/package/blastutils
+197,76,Fastautils are fasta utilities written in typescript for node js application. It is an auxiliary Fasta parser utils for working with fasta object.Only Read and parse operations are introduced for simplicity.,2017-11-30,2017-11-01,FastaUtils,https://www.npmjs.com/package/fastautil
+198,76,,2016-09-30,2016-07-01,Alexa skill : CTA tracker using persistence by using DynamoDB (No-SQL),
+199,76,Utilizing Github's  Github pages. Developed  Static Website in Jekyll Blog Site Generator. Jekyll is purely Ruby application. Using  Basic Scripting in Linux and simple  IDE. I was able to bring a basic website in a span of 2 weeks(This includes my learning curve).The Entire Website has very light  footprint .,2016-07-31,2016-06-01,Personal Website written in  Jekyll,http://www.sahilshetye.com
+200,76,"As a part of  coursework, an algorithm was developed to generate  Random test vectors were generated to test and find stuck at faults on circuit bench file. The fault detection application , ATALANTA ,was used as reference to compare the output obtained from algorithm. The algorithm was developed and tested using console application built in c# . Text based bench file was read /processed and logic was implemented.",2016-04-30,2016-04-01,Developing a Random test Vector generator for Circuit Bench file using ATLANTA and C#.,
+201,76,"Using Simple Scalar, analysed the performance of MIPS processor for various parameters. L1, L2 Cache  performance was analysed for MIPs processor based on Size, miss-rate.Using configuration file in simple scalar , various in-order and out of order   was studied and the assignment was carried out.",2016-03-31,2016-03-01,Analyzing the performance of MIPS processor using Simple Scalar.,
+202,76,,2015-05-31,2015-01-01,Implementation of C2E2 Tool to verify safety property of finite state model of a Cardiac Cell with pacemaker.,
+203,76,"As a part of ECE 436 coursework, we carried out detailed simulation and comparison between TCP and UDP protocol. The simulation was carried out using Network Simulator 2. The simulator was initialized using  tcl scripts .The log files were then analyzed using awk scripts. Each line of the log file corresponded to packet information (being received or sent)on increasing time . So using awk script for tabular data analysis on each line was most optimal choice. Packet loss and throughput was calculated. The result was then copied to a file. And using XY graph pkg. Then graphs were displayed.",2015-05-31,2015-01-01,Performance of TCP and UDP protocol over wireless and wired multi-hop networks.,https://github.com/Sahilshetye/CCN2/tree/master
+204,76,"In this project simple client server service was implemented and ran between two Android Virtual devices on same physical computer. Using android studio, the server was made to listen to a port. Using telnet client port was also routed internally to server port. Using existing android java libraries, data(video,image ) was transferred  to client from server.Existing socket library were used.",2015-04-30,2015-04-01,Client Server implementation on AVDs using Android Studio.,
+205,76,"Our aim was to develop a low-cost Infant monitor, which is indigenously developed keeping in mindthe particular challenges faced by rural and urban government hospitals. A sensitive microphonepicks up the infant’s lung and heart sounds to measure the respiration rate and heart rate. Thesensor output is fed to a DAQ system after signal conditioning. Signal processing shall giveinformation on the infant’s vital parameters. The embedded system hardware will consist ofvarious sensors, a DAQ system, microprocessor and LCD screen. Software will be programmedusing LabVIEW. The embedded system will be developed by deploying the code to the processorusing the NI LabVIEW C generator and a third-party microprocessor tool chain.",2014-06-30,2013-06-01,Infant Monitor using LabVIEW,https://drive.google.com/file/d/0B3sx0f0wIy3XOUZLSFA3RjdGOFU/view?usp=sharing
+206,76,"This Project was implemented to demonstrate a understanding of working of Micro controllers such as Atmega16. The micro controller was  programmed in such a way that it would accept continuous reading from the sensor and would check the values of the temperature. If the value exceeded the user set value,then fan would start to cool down the system.https://github.com/Sahilshetye/Temperature-Controlled-fan",2013-06-30,2012-12-01,Temperature controlled Fan using ATmega16,https://github.com/Sahilshetye/Temperature-Controlled-fan
+207,76,,,,"Implementing programs (interrupts, debugging) on ARM emulator using QEMU on Linux Ubuntu.",
+208,77,Extracted some basic relations from unstructured documents of IEER Corpus.,,,Ontology extraction,
+209,77,Implemented and then compared Neighbourhood and Latent factor models and achieved an average RMSE of 0.94.,,,RECOMMENDER SYSTEM USING MATRIX FACTORIZATION,
+210,77,"@FIMTTC (SKRAU, BIKANER)Designing : Front end using JAVA(GUI), Back end in Oracle 10g, Server based database and connection using JDBC.Purpose : To computerize the testing  records and with providing some excellent searching options.",,,TESTING RECORDS,
+211,77,"During 4th Semester, as mini-project of DBMSDesigning : Front end using JAVA(GUI), Back end in Oracle 10g, connection using JDBC.Purpose : The project is aimed at automating the process of garbage collection.The recycling software system is automation system of recycling process that automatically generate signals or return worth money back to the people who submit the items. Worth money is calculated by the system according to the weight of the submitted items.",,,RECYCLING AUTOMATION SYSTEM,
+212,77,"@CIMCA (SKRAU, BIKANER)Designing: Front end using JAVA(GUI), Back end in Oracle 10g, Server based database and connection using JDBC.Purpose : To computerize the Stock  records and with providing some excellent searching options.",,,STOCK INVENTORY,
+213,77,"As a mini - project of Microprocessor  in 3rd Semester.The project aims at designing a system to guide the aged people or patient by announcing the name of the thing requested by the user using voice alert and IR technology. The system contains control systems, manipulators, power supplies  and software all working together to perform a task.Tools/Hardware used : Microcontroller – AVR AtMega8, APR9600 Voice IC, TSOP 1738 etc.",,,MICROCONTROLLER BASED ATTENDER CALLING SYSTEM,
+214,78,,,,,
+215,79,"Docker is a platform for developers and sysadmins to build, ship and run applications anywhere. As computational work increasing in every aspect of research it becomes more cumbersome and also there is greater divergence between developers and researchers, etc. Hence, it becomes critical every-time start from scratch. With this project, I review current approaches to these issues, including VM's and work-flow systems and their limitations. Docker, latest technology, combine several areas from system research OS Virtualization, Cross-platform portability, Modular Reusable element, and Dev-ops philosophy to address these challenges. With kubernetes we can create a cluster of machines and work as a single system. So offering one-in-all services in a distributed environment.Requirements: Docker 1.3, Kubernetes, Vagrant, VMBox,  etc.",2015-09-01,2014-11-01,Docker Orchestration with Kubernetes,https://www.dockerinfo.wordpress.com
+216,79,"In ADHOC network, nodes move arbitrarily and that affects the performance of the whole system which leads to inefficiency in communication and needs reliable connection to transfer data. Most of data packets been lost due to Transmission Control Protocol(TCP)'s high channel error rate and link failure. To improve the TCP performance many techniques have been derived. We used, Explicit Link Failure Notification(ELFN) mechanism to manage link failures with dynamic cache update scheme to improve the TCP performance considerably.",2012-05-01,2011-07-01,Improvment of DSR protocol in MANET,
+217,80,"This is the Gunn High School Robotics Team robot code from the 2012-2013 school year, for the FIRST Robotics Competition. This is the code that was running on our robot during the 2013 FIRST Championships in St. Louis, and will be the code running on our robot until next competition season.",,,GRT Framework,https://github.com/grt192/grtframeworkv7
+218,80,This is a paper I wrote during a research program at UC Davis during the summer of 2012. I analyzed cardiac action potentials and demonstrated variations in cardiac conditions through the use of the Fitzhugh-Nagumo model for action potentials.,,,Analyzing Cardiac Action Potentials with the Fitzhugh-Nagumo Model,http://www.cosmos.ucdavis.edu/archives/2012/cluster9/KARAMCHETI_SIDDHARTH.pdf
+219,81,,,,,
+220,82,,,,,
+221,83,,,,,
+222,84,,,,,
+223,85,,,,,
+224,86,,,,,

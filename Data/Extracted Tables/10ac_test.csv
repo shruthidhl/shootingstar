@@ -1,0 +1,295 @@
+,profile_id,authority,display_source,ends_at,license_number,name,starts_at,url
+0,0,,,,,,,
+1,1,edX,courses.edx.org,,99f59b75263448468a63ad9b49769937,6.00.1x: Introduction to Computer Science and Programming Using Python,2017-06-01,https://courses.edx.org/certificates/99f59b75263448468a63ad9b49769937
+2,1,"MPSTME,NMIMS",drive.google.com,,,Android Design Competition,2017-04-01,https://drive.google.com/file/d/0B0dopo1IlHeDU1FfRkYtdFlDSDg/view?usp=sharing
+3,2,,,,,,,
+4,3,,,,,,,
+5,4,,,,,,,
+6,5,,,,,,,
+7,6,,,,,,,
+8,7,,,,,,,
+9,8,LinkedIn,www.linkedin.com,,,The Six Morning Habits of High Performers,2020-07-01,http://www.linkedin.com/learning/the-six-morning-habits-of-high-performers
+10,8,Aspiring Minds,www.myamcat.com,,3690527-211,AMCAT Certified Data Processing Specialist,2016-07-01,https://www.myamcat.com/certificate/3690527/data-processing-specialist/211
+11,8,Checkmarx,certificates.codebashing.com,2021-08-31,,Application Security and Secure Coding Training course in Node.JS,2020-08-01,https://certificates.codebashing.com/nodejs_course_certificate_afd7604e7ece5e18e669c01277c76953e99480fd.pdf
+12,9,LinkedIn,www.linkedin.com,,AYa4cof0cOFYP3NW9zhRtkGl_bPt,Essentials of CSS for React Developers,2019-01-01,http://www.linkedin.com/learning/essentials-of-css-for-react-developers
+13,9,LinkedIn,www.linkedin.com,,AYa4cof0cOFYP3NW9zhRtkGl_bPt,React.js Essential Training,2019-01-01,http://www.linkedin.com/learning/react-js-essential-training-3
+14,10,,,,,,,
+15,11,,,,,,,
+16,12,Coursera,coursera.org,,,Agile with Atlassian Jira,2020-08-01,https://coursera.org/share/b9c98e5096aa913efb39bbb5d8aff801
+17,12,Coursera,www.coursera.org,,,Digital Product Management: Modern Fundamentals,2020-05-01,https://www.coursera.org/account/accomplishments/records/LPRBU2ZTN7HA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
+18,12,Coursera,www.coursera.org,,,SQL for Data Science,2020-05-01,https://www.coursera.org/account/accomplishments/certificate/GBQCC65LYLCX
+19,12,Coursera,coursera.org,,,Cloud Computing Basics (Cloud 101),2020-04-01,https://coursera.org/share/9e4c0cc368dc8864dc971434e7cdc7b9
+20,12,Coursera,coursera.org,,,New Models of Business in Society,2020-04-01,https://coursera.org/share/25905664f05a37670f8e3028e54be95d
+21,12,Coursera,www.coursera.org,,,Doing More with SAS Programming,2019-10-01,https://www.coursera.org/account/accomplishments/certificate/EBSD7TX5C2EK?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate
+22,12,Coursera,coursera.org,,,Getting Started with SAS Programming,2019-10-01,http://coursera.org/verify/65PRT9NVXPZS
+23,12,Coursera,coursera.org,,,Programming for Everybody (Getting Started with Python),2019-05-01,https://coursera.org/share/b441dd98382ad4d1a4dcfcc44ca398f1
+24,12,Coursera,coursera.org,,,Python Data Structures,2019-05-01,https://coursera.org/share/d83e1bf234bf0bbccc613de9b9774f4f
+25,12,British Council,drive.google.com,2021-07-31,6e4bda56,EnglishScore,2020-07-01,https://drive.google.com/file/d/1GOWhv0P0_Xx9RmUN9RtC30db7BHd1rCd/view?usp=drivesdk
+26,13,,,,,,,
+27,14,Udacity,,,,Intro to Data Analysis,2020-04-01,
+28,14,Udacity,,,,Introduction to Programming Using Python,2020-04-01,
+29,14,Udacity,,,,Intro to Deep Learning with PyTorch,2020-03-01,
+30,14,Coursera,www.coursera.org,,GS9S4WH8BUK2,Using Python to Access Web Data,2019-12-01,https://www.coursera.org/account/accomplishments/verify/GS9S4WH8BUK2
+31,14,Coursera,www.coursera.org,,ATGSUJG5NP7E,Game Theory,2019-11-01,https://www.coursera.org/account/accomplishments/verify/ATGSUJG5NP7E
+32,14,Mitacs,,,,Mitacs Globalink Completion Certificate,2019-10-01,
+33,14,Google,,,,Google summer development program,2019-09-01,
+34,14,Coursera,www.coursera.org,,MXT65G7K5NAG,Python Data Structures,2019-04-01,https://www.coursera.org/account/accomplishments/verify/MXT65G7K5NAG
+35,14,Coursera,www.coursera.org,,2VCNSPN8EPLF,Programming for Everybody (Getting Started with Python),2019-01-01,https://www.coursera.org/account/accomplishments/verify/2VCNSPN8EPLF
+36,15,LinkedIn Learning,,,,Java Database Access with Hibernate,2021-08-01,
+37,15,LinkedIn Learning,,,,Learning MongoDB,2021-08-01,
+38,15,LinkedIn Learning ⋅ Course Certificate,,,,HTML Essential Training,2021-05-01,
+39,15,LinkedIn Learning ⋅ Course Certificate,,,,Learning Java,2021-05-01,
+40,15,LinkedIn Learning,,,,Learning the JavaScript Language,2021-05-01,
+41,15,LinkedIn Learning,,,,Oracle Database 12c: Basic SQL,2021-05-01,
+42,15,Coursera,www.coursera.org,,ZZLSYNDWES5Q,Programming for Everybody (Getting Started with Python),2020-01-01,https://www.coursera.org/account/accomplishments/certificate/ZZLSYNDWES5Q
+43,15,Coursera,www.coursera.org,,FXABCNE5UFNA,Introduction to Cisco Networking,2018-10-01,https://www.coursera.org/account/accomplishments/verify/FXABCNE5UFNA
+44,15,Coursera,www.coursera.org,,XL42DZ3ZLKX4,"Programming Foundations with JavaScript, HTML and CSS",2018-03-01,https://www.coursera.org/account/accomplishments/verify/XL42DZ3ZLKX4
+45,16,,,,,,,
+46,17,,,,,,,
+47,18,HackerRank,www.hackerrank.com,,,Problem Solving,2021-09-01,https://www.hackerrank.com/certificates/ce4a3bd2bf52
+48,18,Udemy,www.udemy.com,,,"Excel for Beginners (PowerPivot, PowerQuery, Macros,VBA,DAX)",2021-07-01,https://www.udemy.com/certificate/UC-2fb2eb3f-996d-49ca-b80f-e2e80f9d2cbd/
+49,18,Coursera,www.coursera.org,,,Machine Learning with Python,2021-07-01,https://www.coursera.org/account/accomplishments/verify/2BQGQDJ7TDDN?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse
+50,18,Coursera,coursera.org,,,Tools for Data Science,2021-07-01,https://coursera.org/share/2926ad34947c7114ffa57d9a94c623f8
+51,18,Coursera,www.coursera.org,,,Data Science Methedology,2021-06-01,https://www.coursera.org/account/accomplishments/verify/V8V7L467CZ83?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse
+52,18,Coursera,coursera.org,,,Applied Datascience Specialization,2021-04-01,https://coursera.org/share/ac003363f80f8622f3006ef2888e7921
+53,18,IBM,www.coursera.org,,,Data Analysis With Python,2021-04-01,https://www.coursera.org/account/accomplishments/verify/FWRXM68GCPXN?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse
+54,18,IBM,www.coursera.org,,,Data Visualization with Python,2021-04-01,https://www.coursera.org/account/accomplishments/verify/6KMAB9TFK2H2?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse
+55,18,IBM,www.coursera.org,,,Databases and SQL for Data Science with Python,2021-04-01,https://www.coursera.org/account/accomplishments/verify/JXQXJCNKRJB7?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse
+56,18,University of Michigan,www.coursera.org,,,Managing Talent,2021-03-01,https://www.coursera.org/account/accomplishments/verify/FQJ6XRSRY524?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse
+57,18,IBM Watson Media,www.coursera.org,,,Python Project for Data Science,2021-03-01,https://www.coursera.org/account/accomplishments/verify/TCXMNTW4BZ5D?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse
+58,18,IBM,www.coursera.org,,,"Python for Data Science, AL and Development",2021-03-01,https://www.coursera.org/account/accomplishments/verify/J5LARQ5G35JZ?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse
+59,18,Google,coursera.org,,,Crash Course on Python,2021-02-01,http://coursera.org/verify/U5SQXK9HLE23
+60,18,IBM,www.youracclaim.com,,,Data Science Orientation,2021-02-01,https://www.youracclaim.com/badges/562330b4-982c-409f-9f0e-9b189beaff65/whatsapp
+61,18,IBM,www.coursera.org,,,What is Data Science?,2021-02-01,https://www.coursera.org/account/accomplishments/verify/BHFJ3PUQUTYA?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse
+62,18,AICTE,,,KAPILA20201023581134,Kalam Program for IP literacy and Awareness,2021-01-01,
+63,18,HackerRank,www.hackerrank.com,,6CAA6158C8C7,Java (Basic),2020-12-01,https://www.hackerrank.com/certificates/6caa6158c8c7
+64,18,HackerRank,www.hackerrank.com,,2A6641FCB7E0,Python(basic),2020-12-01,https://www.hackerrank.com/certificates/2a6641fcb7e0
+65,18,Udemy,,,,Introducing Arduino,2020-06-01,
+66,18,Smart India Hackathon 2020,drive.google.com,,,Certificate - Winner Internal Smart India Hackathon 2020 (Hardware Edition),2020-01-01,https://drive.google.com/file/d/14Ftx0ppgdbw69myRfZqtMSdoahv7fyBe/view?usp=drivesdk
+67,18,All India Radio,,,,Student Trainee,2019-06-01,
+68,19,,,,,,,
+69,20,,,,,,,
+70,21,Udemy,,,,Python Complete Course For Beginners,2021-09-01,
+71,21,Udemy,,,,SQL Masterclass: SQL for Data Analytics,2021-08-01,
+72,21,Google Digital Garage,,,,The Fundamentals of Digital Marketing,2021-06-01,
+73,21,University System of Maryland,,,,Managing conflicts on programs and projects with cultural and emotional intelligence,2021-03-01,
+74,21,University of Virginia,,,,Introduction To Personal Branding,2021-02-01,
+75,21,TCS iON,,,,Career Edge - Knockdown the Lockdown,2020-05-01,
+76,21,PRIMO,,,,Microsoft Office Package 2010,2016-06-01,
+77,22,deeplearning.ai,www.coursera.org,,G67MHRKVQA5C,Coursera:   Natural Language Processing with Sequence Models,2020-10-01,https://www.coursera.org/verify/G67MHRKVQA5C
+78,22,deeplearning.ai,www.coursera.org,,AJEYFHHY37,Coursera:  Natural Language Processing with Probabilistic Models,2020-10-01,https://www.coursera.org/verify/AJEYFHHY37
+79,22,deeplearning.ai,www.coursera.org,,UGH38XKBEHDZ,Coursera: Natural Language Processing with attention Models,2020-10-01,https://www.coursera.org/verify/UGH38XKBEHDZ
+80,22,deeplearning.ai,www.coursera.org,,,coursera: Natural Language Processing with Classification and Vector Spaces,2020-09-01,http://www.coursera.org/verify/879NL6AS295X
+81,22,Coursera,www.coursera.org,,,Fundamentals of reinforcement learning,2020-08-01,https://www.coursera.org/verify/E24HU2JVDJCQ
+82,22,Coursera,www.coursera.org,,,Practical Reinforcement learning,2020-08-01,https://www.coursera.org/verify/PXW66ZVJ84HY
+83,22,Coursera,www.coursera.org,,MNUKKKULP593,Coursera: Deep learning in Computer vision,2020-06-01,https://www.coursera.org/verify/MNUKKKULP593
+84,22,Coursera,www.coursera.org,,ZEDABP9RATB5,Coursera: Introduction to deep learning,2020-06-01,https://www.coursera.org/verify/ZEDABP9RATB5
+85,22,Coursera,www.coursera.org,,E65QCP664MJJ,Coursera: Natural Language Proccessing,2020-06-01,https://www.coursera.org/verify/E65QCP664MJJ
+86,23,Qwiklabs,www.qwiklabs.com,,,"Perform Foundational Data, ML, and AI Tasks in Google Cloud",2021-09-01,https://www.qwiklabs.com/public_profiles/0c7928b4-4986-4a18-93a2-534aaf7a4732
+87,23,Qwiklabs,www.qwiklabs.com,,,Perform Foundational Infrastructure Tasks in Google Cloud,2021-09-01,https://www.qwiklabs.com/public_profiles/0c7928b4-4986-4a18-93a2-534aaf7a4732
+88,23,Qwiklabs,www.qwiklabs.com,,,"Baseline: Data, ML, AI",2021-08-01,https://www.qwiklabs.com/public_profiles/0c7928b4-4986-4a18-93a2-534aaf7a4732
+89,23,Qwiklabs,www.qwiklabs.com,,,Baseline: Infrastructure,2021-08-01,https://www.qwiklabs.com/public_profiles/0c7928b4-4986-4a18-93a2-534aaf7a4732
+90,23,Qwiklabs,www.qwiklabs.com,,,Build and Secure Networks in Google Cloud,2021-08-01,https://www.qwiklabs.com/public_profiles/0c7928b4-4986-4a18-93a2-534aaf7a4732
+91,23,Qwiklabs,www.qwiklabs.com,,,Create and Manage Cloud Resources,2021-08-01,https://www.qwiklabs.com/public_profiles/0c7928b4-4986-4a18-93a2-534aaf7a4732
+92,23,Qwiklabs,www.qwiklabs.com,,,Google Cloud Essentials,2021-08-01,https://www.qwiklabs.com/public_profiles/0c7928b4-4986-4a18-93a2-534aaf7a4732
+93,23,Qwiklabs,,,,Networking in Google Cloud,2021-08-01,qwiklabs.com/public_profiles/0c7928b4-4986-4a18-93a2-534aaf7a4732
+94,23,Vishwakarma Institute Of Technology,drive.google.com,,https://givemycertificate.com/verify/JBS-DS9C-DX7,Vishwa CTF 2021,2021-03-01,https://drive.google.com/file/d/1dm0ziJDA967v1X2Zv2srn3jndYxnYHYd/view?usp=sharing
+95,24,Amazon Web Services (AWS),www.youracclaim.com,2023-11-01,,AWS Certified Developer – Associate,2020-11-01,https://www.youracclaim.com/badges/049d1a8f-be1d-417c-a8fc-3cb582862634?source=linked_in_profile
+96,24,Google,www.credential.net,2022-06-01,19494926,Associate Cloud Engineer,2020-06-01,https://www.credential.net/115bba95-1e2c-493c-ace7-f33bde67d2fc
+97,25,,,,,,,
+98,26,,,,,,,
+99,27,freeCodeCamp,freecodecamp.org,,,JavaScript Algorithms and Data Structures,2021-07-01,https://freecodecamp.org/certification/mollycarroll/javascript-algorithms-and-data-structures
+100,27,American Mensa,www.youracclaim.com,,,American Mensa Member,2018-02-01,https://www.youracclaim.com/badges/09076224-b001-4b5c-adb1-a1d2ce972225?source=linked_in_profile
+101,28,"Liferay, Inc",www.liferay.com,,1PUOV-VGCKG-45MVR,Certified Professional Developer for Liferay Portal 6.2,2015-11-01,http://www.liferay.com
+102,29,Udemy,udemy-certificate.s3.amazonaws.com,,UC-542e3497-6045-42ef-942c-daa273de9724,Complete Javascript Course,2021-04-01,https://udemy-certificate.s3.amazonaws.com/pdf/UC-542e3497-6045-42ef-942c-daa273de9724.pdf
+103,30,Amazon Web Services (AWS),www.aws.training,,pSKViZrOWUqrMxskELCKwQ2,Advanced Testing Practices Using AWS DevOps Tools,2021-08-01,https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=pSKViZrOWUqrMxskELCKwQ2
+104,30,HackerRank,www.hackerrank.com,,,Python (Basic) Certification,2021-08-01,https://www.hackerrank.com/certificates/b647d611615a
+105,30,iB Hubs,certificates.ccbp.in,,U2Q7GXKOK5,4.0 Tech 101 Certificate,2021-03-01,http://certificates.ccbp.in/4-0-tech-bootcamp/?id=U2Q7GXKOK5
+106,30,Andhra Pradesh State Skill Development Corporation (APSSDC),res.cloudinary.com,,,Applied Robot Control 1.0,2019-04-01,https://res.cloudinary.com/urstrulysravan/image/upload/v1628253020/BE5A1FFF-3DFB-44FF-8F4A-9FAE3905D4E8_xq3tkn.jpg
+107,30,ASNT (The American Society for Nondestructive Testing),res.cloudinary.com,2024-06-30,,ASNT Central Certification Program Level II - Liquid Penetrant Testing (ACCP-PT),2019-06-01,https://res.cloudinary.com/urstrulysravan/image/upload/v1627619935/98E6A384-9676-4F35-92CF-078677E4D08E_itj9np.jpg
+108,30,ASNT (The American Society for Nondestructive Testing),res.cloudinary.com,2024-06-30,,ASNT Central Certification Program Level II - Magnetic Particle Testing (ACCP-MT),2019-06-01,https://res.cloudinary.com/urstrulysravan/image/upload/v1627619927/674CC88E-A5DA-46F6-B87C-95C1970B72F6_mfrjc1.jpg
+109,30,ASNT (The American Society for Nondestructive Testing),res.cloudinary.com,2024-06-30,,ASNT Central Certification Program Level II - Radiographic Testing (ACCP-RT),2019-06-01,https://res.cloudinary.com/urstrulysravan/image/upload/v1627619936/405155BE-CD2A-4D8C-88AF-3FC0AA9DA138_fpuu6m.jpg
+110,30,ASNT (The American Society for Nondestructive Testing),res.cloudinary.com,2024-06-30,,ASNT Central Certification Program Level II - Ultrasonic Testing (ACCP-UT),2019-06-01,https://res.cloudinary.com/urstrulysravan/image/upload/v1627619936/0B1A4C5A-27F3-4EBA-BBAE-A9A8E8E4F5DE_ttrnqx.jpg
+111,31,,,,,,,
+112,32,,,,,,,
+113,33,,,,,,,
+114,34,,,,,,,
+115,35,,,,,,,
+116,36,,,,,,,
+117,37,,,,,,,
+118,38,Coding Blocks,online.codingblocks.com,,CBOL-169975-5528,Algo++,2021-01-01,https://online.codingblocks.com/certificates/CBOL-169975-5528
+119,38,Coursera,www.youracclaim.com,,,Machine Learning with Python,2021-01-01,https://www.youracclaim.com/badges/abc69815-eea7-404f-9ceb-2b3b0325a94e?source=linked_in_profile
+120,38,HackerRank,www.hackerrank.com,,,c++,2020-09-01,https://www.hackerrank.com/certificates/ccd007d0b056
+121,38,Coursera,coursera.org,,,Front-End web development in react,2020-08-01,https://coursera.org/share/d8088f1d5a169bab6c9960968c3e814f
+122,38,Coursera,coursera.org,,,"Server-side Development with NodeJS, Express and MongoDB",2020-07-01,https://coursera.org/share/37ade3057bd6adccbcb8283fb07b050b
+123,39,,,,,,,
+124,40,,,,,,,
+125,41,Coursera,,,,Programming for Everybody (Getting Started with Python),2021-08-01,
+126,42,HackerRank,www.hackerrank.com,,5cd2cf0e25f6,SQL(BASIC),2021-09-01,https://www.hackerrank.com/certificates/5cd2cf0e25f6
+127,42,Google Digital Garage,learndigital.withgoogle.com,,PF6,The  Fundamental of Digital Marketing,2021-07-01,https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code
+128,42,Udemy,www.udemy.com,,UC-2d6ebdf3-32de-4a08-8172-de2bb5a88df1,The Complete 2021 Web Development Bootcamp,2021-06-01,https://www.udemy.com/certificate/UC-2d6ebdf3-32de-4a08-8172-de2bb5a88df1/
+129,42,Coursera,www.coursera.org,,GMPF4SXFWSXA,Advanced Styling with Responsive Design,2020-08-01,https://www.coursera.org/account/accomplishments/certificate/GMPF4SXFWSXA
+130,42,Coursera,www.coursera.org,,EQ5LMKZFVPFQ,Introduction to Big Data,2020-08-01,https://www.coursera.org/account/accomplishments/certificate/EQ5LMKZFVPFQ
+131,42,Coursera,www.coursera.org,,UDBPG9P5EMFB,Introduction to CSS3,2020-08-01,https://www.coursera.org/account/accomplishments/certificate/UDBPG9P5EMFB
+132,42,Coursera,www.coursera.org,,99PD9S2U7RDP,Introduction to HTML5,2020-08-01,https://www.coursera.org/account/accomplishments/certificate/99PD9S2U7RDP
+133,42,Coursera,www.coursera.org,,QDUQ852U43MV,Interactivity with JavaScript,2020-08-01,https://www.coursera.org/account/accomplishments/certificate/QDUQ852U43MV
+134,42,Coursera,www.coursera.org,,XTYQBFXSQ4E2,Programming for Everybody (Getting Started with Python),2020-07-01,https://www.coursera.org/account/accomplishments/certificate/XTYQBFXSQ4E2
+135,42,Internshala,,,,REACT,2020-05-01,
+136,43,LinkedIn,www.linkedin.com,,,Presenting Technical Information with Stories,2020-11-01,http://www.linkedin.com/learning/presenting-technical-information-with-stories
+137,43,LinkedIn,www.linkedin.com,,,Design Thinking at Work (getAbstract Summary),2020-10-01,http://www.linkedin.com/learning/design-thinking-at-work-getabstract-summary
+138,43,LinkedIn,www.linkedin.com,,,Influencing Others,2020-10-01,http://www.linkedin.com/learning/influencing-others
+139,43,LinkedIn,www.linkedin.com,,,React: Testing and Debugging,2020-10-01,http://www.linkedin.com/learning/react-testing-and-debugging
+140,43,LinkedIn,www.linkedin.com,,,Software Design: Code and Design Smells,2020-10-01,http://www.linkedin.com/learning/software-design-code-and-design-smells
+141,43,Udacity,,,,Android Nanodegree Scholarship by Google,2018-04-01,
+142,43,Udacity,,,,Grow with Google Challenge Scholarship,2018-01-01,
+143,43,Google,,,8754614,Mobile Sites Assessment Certified,2018-01-01,
+144,43,Coursera,www.coursera.org,,KPWFL48WKCDN,A Crash Course in Data Science,2017-12-01,https://www.coursera.org/account/accomplishments/verify/KPWFL48WKCDN
+145,43,SoloLearn,,,,JavaScript,2017-07-01,
+146,43,Yonsei University,www.coursera.org,,HP6XFXGS3JJB,Smartphone Emerging Technologies,2017-02-01,https://www.coursera.org/account/accomplishments/certificate/HP6XFXGS3JJB
+147,43,Coursera Course Certificates,www.coursera.org,,7F2BQZNGVQUG,Customer Analytics - Wharton Business School (University of Pennsylvania),2017-01-01,https://www.coursera.org/account/accomplishments/verify/7F2BQZNGVQUG
+148,43,Qwiklabs,qwiklabs.com,,,Digital Media - AWS Lab Quest,2016-12-01,https://qwiklabs.com/public_profiles/ea0ea13f-060a-45b7-a9ba-9791c75b9c10
+149,43,Coursera Course Certificates,www.coursera.org,,2UTZ4JB26NBT,"Fundamentals of Visualization with Tableau - University of California, Davis",2016-12-01,https://www.coursera.org/account/accomplishments/verify/2UTZ4JB26NBT
+150,43,Coursera Course Certificates,www.coursera.org,,W47AZEJC4EBD,Introduction to Software Product Management - University of Alberta,2016-12-01,https://www.coursera.org/account/accomplishments/verify/W47AZEJC4EBD
+151,43,Coursera Course Certificates,www.coursera.org,,BMB63ENCMCXU,Managing Data Analysis - John Hopkins University,2016-12-01,https://www.coursera.org/account/accomplishments/verify/BMB63ENCMCXU
+152,43,SCRUMstudy - Accreditation Body for Scrum and Agile;Download Free Scrum Body of Knowledge(340 pages),www.scrumstudy.com,,560276,Scrum Fundamentals Certified,2016-12-01,http://www.scrumstudy.com/scrum-master-certification.asp
+153,43,Qwiklabs,qwiklabs.com,,,Serverless Web Apps using Amazon DynamoDB,2016-12-01,https://qwiklabs.com/public_profiles/ea0ea13f-060a-45b7-a9ba-9791c75b9c10
+154,43,Coursera Course Certificates,www.coursera.org,,Z6T6MDEFZAP6,Software Processes and Agile Practices - University of Alberta,2016-12-01,https://www.coursera.org/account/accomplishments/verify/Z6T6MDEFZAP6
+155,44,,,,,,,
+156,45,,,,,,,
+157,46,Udemy,www.udemy.com,,UC-40912799-d50d-448e-8b69-1248aa74e12f,Vue.js,2020-02-01,https://www.udemy.com/certificate/UC-40912799-d50d-448e-8b69-1248aa74e12f/
+158,46,Udemy,www.udemy.com,,UC-AN3AF3FM,MERN Stack Front To Back,2020-01-01,https://www.udemy.com/certificate/UC-AN3AF3FM/
+159,46,Udemy,ude.my,,UC-0KSNHAMX,JavaScript Course,2018-02-01,http://ude.my/UC-0KSNHAMX
+160,46,Udemy,ude.my,,UC-8CEMOBEK,Modern React with Redux,2018-02-01,http://ude.my/UC-8CEMOBEK
+161,46,Coursera,www.coursera.org,,VJTJ48D7Y5M2,Machine Learning,2017-10-01,https://www.coursera.org/account/accomplishments/verify/VJTJ48D7Y5M2
+162,46,Whataftercollege.com,,,,Ethical hacker,2015-09-01,Whataftercollege.com
+163,47,,,,,,,
+164,48,HackerRank,www.hackerrank.com,,79243d5afc85,React (Basic),2020-11-01,https://www.hackerrank.com/certificates/79243d5afc85
+165,48,Coursera,www.coursera.org,,2BN6QPL3NVGD,Introduction to Web Development,2019-03-01,https://www.coursera.org/account/accomplishments/verify/2BN6QPL3NVGD
+166,48,Coursera,www.coursera.org,,YNMLFX7MKZGJ,Using Python to Access Web Data,2019-03-01,https://www.coursera.org/account/accomplishments/verify/YNMLFX7MKZGJ
+167,48,Coursera,www.coursera.org,,7C9C9PUJEBD4,Python Data Structures,2018-10-01,https://www.coursera.org/account/accomplishments/verify/7C9C9PUJEBD4
+168,48,Coursera,www.coursera.org,,4JQEL5MXWHFZ,Programming for Everybody (Getting Started with Python),2018-10-01,https://www.coursera.org/account/accomplishments/verify/4JQEL5MXWHFZ
+169,49,Lynda.com,www.lynda.com,,,Learning Jenkins,2019-06-01,http://www.lynda.com/Developer-tutorials/Learning-Jenkins/677177-2.html
+170,49,Lynda.com,www.lynda.com,,,Learning Spring with Spring Boot,2019-01-01,http://www.lynda.com/Spring-Framework-tutorials/Learning-Spring-Spring-Boot/550572-2.html
+171,49,Lynda.com,www.lynda.com,,,Creating Your First RESTful Spring Boot Microservice with JPA,2018-12-01,http://www.lynda.com/Spring-tutorials/Creating-Your-First-RESTful-Spring-Boot-Microservice-JPA/510079-2.html
+172,49,Lynda.com,www.lynda.com,,,Kafka Essential Training,2018-10-01,http://www.lynda.com/Kafka-tutorials/Kafka-Essential-Training/585254-2.html
+173,49,Lynda.com,www.lynda.com,,,Microservices Foundations,2018-09-01,http://www.lynda.com/Developer-tutorials/Microservices-Foundations/647664-2.html
+174,49,Lynda.com,www.lynda.com,,,Learning MongoDB,2018-08-01,http://www.lynda.com/Moodle-tutorials/Learning-MongoDB/573253-2.html
+175,49,Lynda.com,www.lynda.com,,,Python Basics for Java Developers,2018-08-01,http://www.lynda.com/Python-tutorials/Python-Basics-Java-Developers/693094-2.html
+176,49,Duolingo,www.duolingo.com,,,Duolingo French Fluency: Beginner (Estimated),2016-04-01,https://www.duolingo.com/DiwakarKus1
+177,50,,,,,,,
+178,51,,,,,,,
+179,52,,,,,,,
+180,53,Coursera,www.coursera.org,,USAACB5CEAU8,Introduction to Web Development,2019-02-01,https://www.coursera.org/account/accomplishments/records/USAACB5CEAU8
+181,53,Coursera,www.coursera.org,,QQFLN28ZZ7ME,Using Python to Access Web Data,2019-01-01,http://www.coursera.org/account/accomplishments/records/QQFLN28ZZ7ME
+182,53,Coursera,www.coursera.org,,R27U863AGWPL,Programming for Everybody (Getting Started with Python),2018-10-01,https://www.coursera.org/account/accomplishments/verify/R27U863AGWPL
+183,53,Coursera,www.coursera.org,,4J5QQSP8DZFZ,Python Data Structures,2018-10-01,https://www.coursera.org/account/accomplishments/verify/4J5QQSP8DZFZ
+184,53,Wheebox,drive.google.com,,,Wheebox Employability Skills Test Certificate,2017-10-01,https://drive.google.com/file/d/0BxeZP1dABocAdnBkbkN5aW8yOWM/view?usp=drivesdk
+185,54,,,,,,,
+186,55,Coding Blocks,online.codingblocks.com,,CBOL-67582-fe91,Certified Software Development Professional (CSDP),2020-08-01,https://online.codingblocks.com/certificates/CBOL-67582-fe91
+187,55,Coursera,coursera.org,,6bf5e2fa66056b63abbc11a4c8061d9b,Certified Software Engineer,2020-05-01,https://coursera.org/share/6bf5e2fa66056b63abbc11a4c8061d9b
+188,56,,,,,,,
+189,57,LinkedIn,,,,Learning GraphQL,2021-05-01,
+190,57,LinkedIn,,,,Learning MongoDB,2021-05-01,
+191,57,LinkedIn,,,,Learning Typescript,2021-05-01,
+192,58,edX,courses.edx.org,,,edX Verified Certificate for Introduction to Computer Science,2016-07-01,https://courses.edx.org/certificates/fc7073fce9a04f52a470fa27c8b6d8cc
+193,58,DOEACC,,2012-07-31,13614,Java Certification,2012-06-01,
+194,58,NIIT Limited,,2011-11-30,,Object Oriented Programming Using C++,2011-09-01,
+195,59,Google,https,,JLX,The Fundamentals of Digital Marketing,2020-05-01,http://HTTPS://LEARNDIGITAL.WITHGOOGLE.COM/DIGITALUNLOCKED
+196,59,Coursera,coursera.org,,ESKVPRH9HNC2,Machine Learning for Business Professionals,2019-08-01,http://coursera.org/verify/ESKVPRH9HNC2
+197,59,LinkedIn,,,AeoaKOOVxXqmTjtXznvmlrXTX_jc,Design Thinking: Understanding the Process,2019-04-01,
+198,59,LinkedIn,,,AaeOZFXN-7YY0002sX-IBCkgXjbJ,Product Management First Steps,2019-01-01,
+199,59,"Scaled Agile, Inc.",,2019-05-31,,Cerified SAFe Practitioner,2018-05-01,
+200,60,,,,,,,
+201,61,NIELIT,,2013-07-31,,Embedded system training,2013-06-01,
+202,61,Tableau Software,www.youracclaim.com,,,Tableau Analyst,,https://www.youracclaim.com/badges/3b1e9183-aa66-4df5-a383-3e614892bb4b/linked_in_profile
+203,61,Tableau Software,www.youracclaim.com,,,Tableau Data Scientist,,https://www.youracclaim.com/badges/196ca583-4f17-4d37-98d3-3c629a4834bc/linked_in_profile
+204,62,Coursera,www-origin.coursera.org,,PC7SCM3HGCLA,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",2020-04-01,https://www-origin.coursera.org/account/accomplishments/certificate/PC7SCM3HGCLA
+205,62,Udemy,ude.my,,UC-OTI0I5GF,Digital Marketing,2019-08-01,http://ude.my/UC-OTI0I5GF
+206,62,Google,analytics.google.com,2023-02-28,f2aRGUcoSBuUxthKzJ-yjQ,Advanced Google Analytics,2020-02-01,https://analytics.google.com/analytics/academy/certificate/f2aRGUcoSBuUxthKzJ-yjQ
+207,62,Google,analytics.google.com,2022-11-30,-45YMKbYSD-YpjpqvC9b4A,Google Analytics for Beginners,2019-11-01,https://analytics.google.com/analytics/academy/certificate/-45YMKbYSD-YpjpqvC9b4A
+208,63,LinkedIn,www.linkedin.com,,,Building Full-Stack Apps with React and Spring,2021-01-01,http://www.linkedin.com/learning/building-full-stack-apps-with-react-and-spring
+209,63,University of Southern California,arr.usc.edu,,211BZSCXAXAQ,Masters Program (Master),2020-12-01,https://arr.usc.edu/services/diplomas/electronicdiplomavalidation.html
+210,63,Google,,,,Online Marketing Fundamentals,2017-12-01,
+211,64,Udemy,www.udemy.com,,UC-91271f6e-217c-484d-92a6-83342a24488e,2021 Complete Python Bootcamp From Zero to Hero in Python,2021-06-01,https://www.udemy.com/certificate/UC-91271f6e-217c-484d-92a6-83342a24488e/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email
+212,64,Agile Center of Excellence,,,,Agile Awareness - Lego City,2019-07-01,
+213,64,Hortonworks,,,dwo7nf922z98,Big Data HDP Developer,2018-11-01,
+214,64,IBM,ibt.prometric.com,,CERT-2013-86945,IBM InfoSphere DataStage v8.5 (000-421) Prime certification.,2013-11-01,http://ibt.prometric.com/ibmtesting
+215,64,Oracle,,,,Oracle Certified Associate (OCA),2009-06-01,
+216,65,,,,,,,
+217,66,,,,,,,
+218,67,Google,skillshop.exceedlms.com,,76942125,Google Ads Analytics Individual Qualification,2021-04-01,https://skillshop.exceedlms.com/student/award/76942125
+219,67,Google,learndigital.withgoogle.com,,DML,Google Digital Unlocked,2021-04-01,https://learndigital.withgoogle.com/digitalunlocked/course/digital-marketing/certification/post-assessment
+220,67,Google,skillshop.exceedlms.com,,75578306,Google Ads Video Certification,2021-03-01,https://skillshop.exceedlms.com/student/award/75578306
+221,67,LinkedIn,www.linkedin.com,,,Marketing on LinkedIn: The Sophisticated Marketer's Guide,2020-10-01,http://www.linkedin.com/learning/marketing-on-linkedin-the-sophisticated-marketer-s-guide
+222,67,Microsoft,,,,Microsoft Advertising Certified,2020-10-01,
+223,67,Yandex,,,N*191221,Yandex Direct Certification,2020-10-01,
+224,67,Facebook,www.facebookblueprint.com,,57827104,Targeting Core Audiences,2020-08-01,https://www.facebookblueprint.com/student/award/57827104
+225,67,Google,skillshop.exceedlms.com,,76940056,Google Ads Apps Certification,2020-04-01,https://skillshop.exceedlms.com/student/award/76940056
+226,67,Aveta Business Institute,,,pzA6BUQXgv,Lean Six Sigma White Belt Certification,2019-07-01,
+227,67,LinkedIn,www.linkedin.com,,,Guy Kawasaki on Entrepreneurship,2019-06-01,http://www.linkedin.com/learning/guy-kawasaki-on-entrepreneurship
+228,67,Udemy,ude.my,,UC-Y1JSLSL8,Introduction to Advanced Facebook Advertising,2019-05-01,http://ude.my/UC-Y1JSLSL8
+229,67,Udemy,ude.my,,UC-I9XEYTM5,Operations Management,2018-08-01,http://ude.my/UC-I9XEYTM5
+230,67,Haryana State Pollution Control Board - India,,,,Appreciation Certficate,2010-12-01,
+231,67,HubSpot,app.hubspot.com,2022-12-31,,Hubspot Inbound Certified,2020-11-01,https://app.hubspot.com/academy/163861/tracks/24/exam/award/24/AcademyNewInboundCertification
+232,67,Google,skillshop.exceedlms.com,2022-02-28,59887693,Google Ads Search Certification,2021-02-01,https://skillshop.exceedlms.com/student/award/59887693?referer=https%3A%2F%2Fskillshop.exceedlms.com%2Fstudent%2Fpath%2F18128%2Factivity%2F25345%3Fconfirm_disclaimer%3Dtrue%26id%3D18105
+233,67,Google,skillshop.exceedlms.com,2022-02-28,72385561,Shopping Ads Certification,2021-02-01,https://skillshop.exceedlms.com/student/award/72385561
+234,67,Google,skillshop.exceedlms.com,2021-11-30,62436477,Google Ads Display Certification,2020-11-01,https://skillshop.exceedlms.com/student/award/62436477?referer=https%3A%2F%2Fskillshop.exceedlms.com%2Fstudent%2Fpath%2F18061%2Factivity%2F25103%3Fconfirm_disclaimer%3Dtrue%26id%3D18039
+235,67,HubSpot Academy,,2020-02-29,,Inbound Markeing,2017-12-01,
+236,67,Google,,2019-07-31,17432439,Adwords Fundamentals,2018-07-01,
+237,67,The International Award for Young People,,,,Bronze Award,,
+238,67,Round Square,,,,Certificate of Participation,,
+239,67,Abyeti Technologies,tracking.learningpundits.com,,26923354-4119420,Merit Certificate,,http://tracking.learningpundits.com/tracking/click?d=iQ9q-sUqFV0eosis3Jr0brVE80-pJsmxFAwWta8njHI7hoPnvft1mdUIWr7JUVGzWERfgMKF0ZMvxhoxPwg_3aKN0xSEC0bn5xrrgEhbYj75e9GIFdrjZGCPNo6ETLbIMYmNU0uCC085i2orIvdbOocVF7YkDotTDJmCOP79Je6CEmI7B6NIgnDoKgQ-0aJs30ReoOKPt-
+240,68,SAS,www.credly.com,,,SAS Visual Analytics 1 for SAS Viya: Basics,2021-05-01,https://www.credly.com/badges/047945c0-2afb-4f1d-93ff-554fdc7dc936?source=linked_in_profile
+241,69,SAS,www.credly.com,,,SAS Visual Analytics 1 for SAS Viya: Basics,2021-05-01,https://www.credly.com/badges/5984d555-e8e2-480a-8094-3a971abac94e?source=linked_in_profile
+242,69,International Institute of Information Technology Bangalore,,,,PG Diploma In Data Science,2019-09-01,
+243,70,SAS,www.credly.com,,,SAS Visual Analytics 1 for SAS Viya: Basics,2021-05-01,https://www.credly.com/badges/bcf30f62-fb18-47b3-9c3f-1bb04f2e9f2b?source=linked_in_profile
+244,70,SAP,open.sap.com,,,"SAP on Hyperscalers - Strategy, Architecture and Deployment",2021-04-01,https://open.sap.com/courses/hyper1/certificate
+245,70,VMware,www.youracclaim.com,2020-09-30,,VMware Certified Professional 6.5 – Data Center Virtualization,2018-09-01,https://www.youracclaim.com/badges/61940d80-843e-4f31-9efa-bf23fbf8548b/linked_in_profile
+246,70,VMware,www.youracclaim.com,2020-02-29,,vSphere Foundations 6.5,2018-02-01,https://www.youracclaim.com/badges/c32b7346-6bb5-4317-a25a-321c64ddc173/linked_in_profile
+247,70,Dell EMC,,,,ISM V3,,
+248,70,Dell EMC,,,,Introduction to Programming Using Python,,
+249,70,Dell EMC,,,,VCE cerified Converged and Hyper Converged Infrastructure Engineer,,
+250,71,,,,,,,
+251,72,,,,,,,
+252,73,,,,,,,
+253,74,,,,,,,
+254,75,,,,,,,
+255,76,LinkedIn,www.linkedin.com,,,TypeScript Essential Training,2017-09-01,http://www.linkedin.com/learning/typescript-essential-training
+256,76,Coursera,www.coursera.org,,VJB2HM67CMYG,Functional Programming Principles in Scala,2017-08-01,https://www.coursera.org/account/accomplishments/verify/VJB2HM67CMYG
+257,76,Pluralsight,drive.google.com,,4127,Docker and Container: The Bigger Picture,2017-06-01,https://drive.google.com/file/d/0B3Pq2nJGNkTCOE9VTW5zVHlkZDQ/view?usp=sharing
+258,76,LinkedIn,www.linkedin.com,,,Learning AngularJS 2 (2016),2017-05-01,http://www.linkedin.com/learning/learning-angularjs-2-2016
+259,76,LinkedIn,www.linkedin.com,,,Docker: The Basics,2017-03-01,http://www.linkedin.com/learning/docker-the-basics
+260,76,LinkedIn,www.linkedin.com,,,Linux: Bash Shell and Scripts,2017-03-01,http://www.linkedin.com/learning/linux-bash-shell-and-scripts
+261,76,LinkedIn,www.linkedin.com,,,"C# Delegates, Events, and Lambdas",2017-02-01,http://www.linkedin.com/learning/c-delegates-events-and-lambdas
+262,76,LinkedIn,www.linkedin.com,,,Introduction to Transact-SQL,2017-02-01,http://www.linkedin.com/learning/introduction-to-transact-sql
+263,76,LinkedIn,www.linkedin.com,,,Linux: System Information and Directory Structure Tools,2017-02-01,http://www.linkedin.com/learning/linux-system-information-and-directory-structure-tools
+264,76,LinkedIn,www.linkedin.com,,,Foundations of Programming: Design Patterns,2017-01-01,http://www.linkedin.com/learning/foundations-of-programming-design-patterns
+265,76,LinkedIn,www.linkedin.com,,,Learning Scala Web Development,2017-01-01,http://www.linkedin.com/learning/learning-scala-web-development
+266,76,LinkedIn,www.linkedin.com,,,Web Workflows with Grunt.js,2017-01-01,http://www.linkedin.com/learning/web-workflows-with-grunt-js
+267,76,National Instruments,drive.google.com,2017-01-31,100-315-229,Certified LabVIEW Associate Developer,2015-01-01,https://drive.google.com/a/uic.edu/file/d/0B2iFEQfByQSda0FQQWFFaTNUNWM/view?usp=sharing
+268,77,,,,,,,
+269,78,IBM,www.youracclaim.com,,,IBM Quantum Consultations,2020-12-01,https://www.youracclaim.com/badges/c114c2f2-9264-4d1f-8264-8eab979ce35b?source=linked_in_profile
+270,78,Infosys,,,,Infosys Nia - Ops Analytics,2019-05-01,
+271,78,Infosys,,,,Infosys Nia Advanced ML (Skytree),2019-05-01,
+272,78,Infosys,,,,Blockchain Overview,2019-04-01,
+273,78,Infosys,,,,Blockchain in Depth,2019-04-01,
+274,78,Infosys,,,,Data Structures and Algorithms using Python,2019-01-01,
+275,78,Infosys,,,,Design Thinking Primer LnD,2018-12-01,
+276,78,Infosys,,,,Introduction to Python,2018-12-01,
+277,78,Infosys,,,,Object Oriented Programming using Python,2018-12-01,
+278,78,Infosys,,,,Programming Fundamentals using Python,2018-12-01,
+279,79,IBM,www.youracclaim.com,,,IBM DeveloperConnect Roadshow - OpenWhisk Essentials,2017-06-01,https://www.youracclaim.com/badges/28f43c5b-4055-4a0b-a46a-affe65a92542/public_url
+280,79,ForgeRock,www.youracclaim.com,2018-09-01,,ForgeRock Access Management Advanced Skills,2018-08-01,https://www.youracclaim.com/badges/6c59e37e-949d-47c1-b70a-ef93e4571633/linked_in_profile
+281,80,,,,,,,
+282,81,,,,,,,
+283,82,,,,,,,
+284,83,deeplearning.ai,www.coursera.org,,6EWSVXU29YH2,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization by deeplearning.ai on Coursera",2019-02-01,https://www.coursera.org/account/accomplishments/verify/6EWSVXU29YH2
+285,83,deeplearning.ai,www.coursera.org,,9D5DBK6DVV7Q,Neural Networks and Deep Learning by deeplearning.ai on Coursera,2019-01-01,https://www.coursera.org/account/accomplishments/verify/9D5DBK6DVV7Q
+286,84,,,,,,,
+287,85,,,,,,,
+288,86,Board Infinity,,,BI-2007212415486,Big Data,2020-07-01,
+289,86,Board Infinity,,,BI-2007219927589,Deep Learning,2020-07-01,
+290,86,Board Infinity,,,BI-2007217803003,Data Science,2020-05-01,
+291,86,Coursera,www.coursera.org,,G4V5QB5CQA77,Managing Machine Learning Projects with Google Cloud,2020-05-01,https://www.coursera.org/account/accomplishments/verify/G4V5QB5CQA77?utm_source=link&utm_campaign=copybutton_certificate&utm_product=course
+292,86,Tableau Software,www.youracclaim.com,,,Tableau Data Scientist,2020-05-01,https://www.youracclaim.com/badges/582e2af3-0692-485f-8442-c703eb341413/public_url
+293,86,Board Infinity,,,BI-2007211542129,Machine Learning,2020-04-01,

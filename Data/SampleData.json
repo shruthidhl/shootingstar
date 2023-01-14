@@ -1,0 +1,279 @@
+{
+    "public_identifier": "preeti-nidhi-9005041a",
+    "profile_pic_url": "https://static-exp1.licdn.com/sc/h/244xhbkr7g40x6bsu4gi6q4ry",
+    "background_cover_image_url": "https://static-exp1.licdn.com/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+    "first_name": "Preeti",
+    "last_name": "Nidhi",
+    "full_name": "Preeti Nidhi",
+    "occupation": "Senior Developer at Tata Consultancy Services",
+    "headline": "Senior Developer at Tata Consultancy Services Germany",
+    "summary": "• Solutions-driven JAVA programmer with around 12 years commended performance in modular and object-oriented programming. Well-versed in all phases of the software development lifecycle.\n\n• Skills includes Software Development, Solutions Deployment, Requirements Definition, Testing & Documentation, Coding & Scripting, Debugging & Troubleshooting\n\n• An effective communicator with excellent relationship building & interpersonal skills",
+    "country": "DE",
+    "country_full_name": "Germany",
+    "city": "Frankfurt/Rhein-Main",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2014
+            },
+            "ends_at": null,
+            "company": "Tata Consultancy Services",
+            "company_linkedin_profile_url": "https://de.linkedin.com/company/tata-consultancy-services",
+            "title": "Senior Developer",
+            "description": null,
+            "location": "Frankfurt Am Main Area, Germany",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEMvQ8E6gXSPA/company-logo_100_100/0/1625820626997?e=1639008000&v=beta&t=fCGWp9wz_2nvVZqayBfhPzJIWNhSzTBd5glWCVRi270"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2014
+            },
+            "company": "Dimetis GmbH",
+            "company_linkedin_profile_url": "https://de.linkedin.com/company/dimetis",
+            "title": "Software Engineer",
+            "description": null,
+            "location": "Frankfurt Area, Germany",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGKoMSj99-oFA/company-logo_100_100/0/1519885286261?e=1639008000&v=beta&t=Is4w6HURllDCDFRLyVpb0fTsmmCzli3pw_BGGg82hpc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2012
+            },
+            "company": "Infosys",
+            "company_linkedin_profile_url": "https://de.linkedin.com/company/infosys",
+            "title": "Technology Lead",
+            "description": null,
+            "location": "Chennai Area, India",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHS0k_nLjbnKA/company-logo_100_100/0/1625111766048?e=1639008000&v=beta&t=w2Lonb4Je4Rs-GLB15qhjLXuquZxVB0JTy5Ldd5OBeQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2009
+            },
+            "company": "Velankani Communications Technologies",
+            "company_linkedin_profile_url": "https://de.linkedin.com/company/velankani",
+            "title": "Senior Software Engineer",
+            "description": null,
+            "location": "Chennai Area, India",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHObf49ay6qzQ/company-logo_100_100/0/1617760703305?e=1639008000&v=beta&t=i_Pp6mqQZfk9Ppvg1BJQOs19TiH5waFHh_SXCBXVN38"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2007
+            },
+            "company": "HSBSoft Technologies",
+            "company_linkedin_profile_url": "https://de.linkedin.com/company/hsbsoft-technologies",
+            "title": "Software Engineer",
+            "description": null,
+            "location": "Bengaluru Area, India",
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C510BAQFVa4gBJFItEw/company-logo_100_100/0/1519875111256?e=1639008000&v=beta&t=qNRZ6S1jTgm7-mnslRAKnVKqJbNwLffTE0iNwqdqNLI"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2005
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor of Engineering (BEng)",
+            "school": "Pandit Ravishankar Shukla University",
+            "description": null,
+            "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQER2BzPDW7DSA/company-logo_100_100/0/1584458000482?e=1639008000&v=beta&t=dikPJ7_rpKs0EWj_A63YL2KOeN-6XFi5kPPNeyf5fcY"
+        }
+    ],
+    "languages": [
+        "English",
+        "German",
+        "Hindi"
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 269,
+    "people_also_viewed": [
+        {
+            "link": "https://in.linkedin.com/in/vinod-jitaram-kushwaha-a2781b195",
+            "name": "Vinod Jitaram Kushwaha",
+            "summary": "QA Test Analyst at Tata Consultancy Services",
+            "location": "Pune"
+        },
+        {
+            "link": "https://in.linkedin.com/in/fincy-philip-61786212a",
+            "name": "Fincy Philip",
+            "summary": "Student at St. Joseph's College of Engg. and Technology,Choondacherry P.O., PIassanal (Via), Palai, Kottayam-686 579",
+            "location": "Madhuban"
+        },
+        {
+            "link": "https://in.linkedin.com/in/nidhi-ruke-4059751b6",
+            "name": "Nidhi Ruke",
+            "summary": "Accountant at BRILLANTO TEXTILE MILLS PRIVATE LIMITED",
+            "location": "Mumbai"
+        },
+        {
+            "link": "https://in.linkedin.com/in/anshul-aggarwal-3a608014",
+            "name": "Anshul Aggarwal",
+            "summary": "ASE at TCS",
+            "location": "Delhi, Indien"
+        },
+        {
+            "link": "https://de.linkedin.com/in/bishna-ranamera-972758a1",
+            "name": "Bishna Ranamera",
+            "summary": "MA International Tourism Management",
+            "location": "Heide"
+        },
+        {
+            "link": "https://de.linkedin.com/in/priyankalehmann",
+            "name": "Priyanka Lehmann",
+            "summary": "Product Management, Process Management, FinTech",
+            "location": "Deutschland"
+        },
+        {
+            "link": "https://in.linkedin.com/in/fincy-philip-398635125",
+            "name": "Fincy Philip",
+            "summary": "I help in building up your dreams by architectural and structural consulting.",
+            "location": "Kottayam"
+        },
+        {
+            "link": "https://de.linkedin.com/in/anil-kumar-bb94b019a",
+            "name": "Anil kumar",
+            "summary": "Student at Berlin School of Business & Innovation (BSBI)",
+            "location": "Metropolregion Berlin/Brandenburg"
+        },
+        {
+            "link": "https://de.linkedin.com/in/nidhi-shukla-6b163320",
+            "name": "Nidhi Shukla",
+            "summary": "Project Manager Purchasing Data Master Castolin Eutectic",
+            "location": "Eschborn"
+        },
+        {
+            "link": "https://de.linkedin.com/in/davor-andric-089358120",
+            "name": "Davor Andric",
+            "summary": "Software Developer at ING Germany",
+            "location": "Nürnberg"
+        },
+        {
+            "link": "https://in.linkedin.com/in/yashika-achaiah-27050845",
+            "name": "Yashika Achaiah",
+            "summary": "Assistant Consultant at Tata Consultancy Services",
+            "location": "Somvarpet"
+        },
+        {
+            "link": "https://uk.linkedin.com/in/mathew-joseph-36626878",
+            "name": "Mathew Joseph",
+            "summary": "Test Manager - ISTQB Advanced Level TM certified at Tata Consultancy Services",
+            "location": "Telford"
+        },
+        {
+            "link": "https://de.linkedin.com/in/rameez-cm-a3b87719",
+            "name": "Rameez CM",
+            "summary": "Technical Lead at  Tata Consultancy Services, Germany",
+            "location": "Nürnberg"
+        },
+        {
+            "link": "https://de.linkedin.com/in/rashmi-ravi-b2842749",
+            "name": "Rashmi Ravi",
+            "summary": "Assistant Vice President at Deutsche Bank",
+            "location": "Eschborn"
+        },
+        {
+            "link": "https://de.linkedin.com/in/ioan-toader-09a97432",
+            "name": "Ioan Toader",
+            "summary": "Senior Developer at Audicon GmbH",
+            "location": "Düsseldorf"
+        },
+        {
+            "link": "https://in.linkedin.com/in/seetha-pandiyan-38867698",
+            "name": "Seetha Pandiyan",
+            "summary": "Assistant Consultant at TCS",
+            "location": "Chennai"
+        },
+        {
+            "link": "https://de.linkedin.com/in/keturka",
+            "name": "Jonas Keturka",
+            "summary": "Tech Lead at Raisin",
+            "location": "Berlin"
+        },
+        {
+            "link": "https://de.linkedin.com/in/jannis-gansen-74132155",
+            "name": "Jannis Gansen",
+            "summary": "Senior Fullstack Developer at CodeCamp:N",
+            "location": "Nürnberg"
+        },
+        {
+            "link": "https://ae.linkedin.com/in/sajin-das-n-004a271b",
+            "name": "Sajin Das N",
+            "summary": "Senior Software Engineer",
+            "location": "Vereinigte Arabische Emirate"
+        },
+        {
+            "link": "https://de.linkedin.com/in/sohan-panwar",
+            "name": "Sohan Panwar",
+            "summary": "Senior Developer  @SAP",
+            "location": "Berlin"
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Adopt a Farmer!",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Beliebt bei Preeti Nidhi"
+        },
+        {
+            "title": "Great to know Red Hat Open Shift Software Technology stack and the powerful Application source to containerized images feature in the manged…",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Beliebt bei Preeti Nidhi"
+        },
+        {
+            "title": "Finally, done with eight weeks long course. Learned a lot about MongoDB aggregration framework, performance tuning, and the Java API for the Mongo…",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Beliebt bei Preeti Nidhi"
+        }
+    ],
+    "similarly_named_profiles": [],
+    "articles": []
+}
